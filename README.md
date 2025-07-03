@@ -1,8 +1,12 @@
-# 👋 Olá, eu sou o Marcel Araújo!
 
-🎓 **Estudante de Engenharia de Software pela PUCPR**  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00F750FF&section=header&reversal=true"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5102&pause=1000&color=00F750&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Marcel+Ara%C3%BAjo!;Estudante+de+Engenharia+de+Software+PUCPR;Tenho+19+anos;Seja+bem-vindo!)](https://git.io/typing-svg)  
 💻 **Front End Developer** apaixonado por tecnologia, inovação e desenvolvimento de soluções criativas.
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelaraujo1440&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcel Araújo GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaraujo1440&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 ---
 
 ## 🚀 Tech Stack
@@ -29,25 +33,14 @@
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=marcelaraujo1440&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaraujo1440&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
----
 
-<!--
-## 🌟 Projetos em Destaque
-- [Projeto X](link)
--->
-
----
-
-<!--
-## 🎲 Fun Fact
-Apaixonado por café e por aprender coisas novas diariamente!
--->
-
----
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelaraujo1440}/count.svg" /></p> 
+<br></div>
 Obrigado pela visita! 🚀
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00F750FF&section=footer&reversal=true"/>
