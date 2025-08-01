@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5102&pause=1000&color=00F750&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Marcel+Ara%C3%BAjo!;Estudante+de+Engenharia+de+Software+PUCPR;Tenho+19+anos;Seja+bem-vindo!)](https://git.io/typing-svg)  
 💻 **Front End Developer** apaixonado por tecnologia, inovação e desenvolvimento de soluções criativas.
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelaraujo1440&show_icons=true&count_private=true&hide_border=true&title_color=00f750f&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcel Araújo GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaraujo1440&layout=compact&hide_border=true&title_color=00F750Ff&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelaraujo1440&show_icons=true&count_private=true&hide_border=true&title_color=00F750FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcel Araújo GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaraujo1440&layout=compact&hide_border=true&title_color=00F750FF&text_color=00F750FF&bg_color=0d1117" />
 </div>
 
 ## 🚀 Tech Stack
@@ -29,17 +29,19 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcelaraujo1440@gmail.com)
 
 ---
+<div align="center">  
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=marcelaraujo1440&theme=shadow_blue&hide_border=false)
 
+  ![](https://nirzak-streak-stats.vercel.app/?user=marcelaraujo1440&theme=shadow_blue&hide_border=false)
+</div>
 
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelaraujo1440}/count.svg" /></p> 
+  Obrigado pela visita! 🚀
 <br></div>
-Obrigado pela visita! 🚀
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00F750FF&section=footer&reversal=true"/>
