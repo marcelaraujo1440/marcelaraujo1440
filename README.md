@@ -37,11 +37,6 @@
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelaraujo1440}/count.svg" /></p> 
-  Obrigado pela visita! 🚀
-<br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00F750FF&section=footer&reversal=true"/>
