@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00F750FF&section=header&reversal=true"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5102&pause=1000&color=00F750&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Marcel+Ara%C3%BAjo!;Estudante+de+Engenharia+de+Software+PUCPR;Tenho+19+anos;Seja+bem-vindo!)](https://git.io/typing-svg)  
-💻 **Front End Developer** apaixonado por tecnologia, inovação e desenvolvimento de soluções criativas.
+💻 **Full Stack Developer** apaixonado por tecnologia, inovação e desenvolvimento de soluções criativas.
 
 
 ## 🚀 Tech Stack
